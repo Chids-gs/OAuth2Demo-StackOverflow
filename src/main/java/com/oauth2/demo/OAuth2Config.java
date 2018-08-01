@@ -26,6 +26,12 @@ public class OAuth2Config extends AuthorizationServerConfigurerAdapter {
                 .secret("{noop}thisissecret")
                 .authorizedGrantTypes("refresh_token", "password", "client_credentials")
                 .scopes("webclient", "mobileclient");
+				if(true){
+					
+				}
+				else{
+					
+				}
     }
 
     @Override
