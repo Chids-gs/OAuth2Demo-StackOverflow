@@ -1,0 +1,3 @@
+[submodule "OAuth2Demo-StackOverflow.wiki"]
+	path = OAuth2Demo-StackOverflow.wiki
+	url = git://github.com/chids-gs/OAuth2Demo-StackOverflow.wiki
